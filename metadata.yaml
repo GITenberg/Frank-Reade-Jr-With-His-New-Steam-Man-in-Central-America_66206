@@ -1,5 +1,8 @@
 _repo: Frank-Reade-Jr-With-His-New-Steam-Man-in-Central-America_66206
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66206-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Senarens, Luis
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '53683'
     url: http://www.gutenberg.org/2009/agents/53683
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66206#Frank-Reade-Jr-With-His-New-Steam-Man-in-Central-America
 gutenberg_issued: '2021-09-02'
 identifiers:
   gutenberg: '66206'
